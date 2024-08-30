@@ -46,7 +46,7 @@ android {
 dependencies {
     implementation 'com.braintreepayments.api:card:4.40.1'
     implementation 'com.braintreepayments.api:data-collector:4.40.1'
-    implementation 'com.braintreepayments.api:google-pay:4.40.1'
+    implementation 'com.braintreepayments.api:google-pay:4.48.0'
     implementation 'com.braintreepayments.api:three-d-secure:4.40.1'
     implementation 'com.braintreepayments.api:paypal:4.40.1'
     implementation 'com.braintreepayments.api:paypal-data-collector:4.40.1'
